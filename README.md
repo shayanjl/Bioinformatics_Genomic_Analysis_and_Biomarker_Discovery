@@ -2,6 +2,8 @@
 
 A comprehensive pipeline for the discovery and validation of gastric cancer‑specific circulating miRNA biomarkers, integrating transcriptomic data from public repositories with functional enrichment and machine learning approaches.
 
+### by: **Shayan Jalali**
+
 ## Table of Contents
 
 * [Project Overview](#project-overview)
