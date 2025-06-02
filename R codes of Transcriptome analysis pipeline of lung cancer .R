@@ -1,4 +1,4 @@
-setwd("E:/maryam/Internship/Capstone project/")
+setwd("E:/XlocationX/")
 library(affy)
 library(affyPLM)
 library(simpleaffy)
