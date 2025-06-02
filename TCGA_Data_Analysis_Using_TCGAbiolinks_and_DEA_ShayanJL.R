@@ -5,7 +5,7 @@
 #******************************************************************************#
 
 # Set your working directory
-setwd("D:/Stickers!/Mentor2.Maryam Momeni SB/R practices/STAD/")
+setwd("D:/XlocationX/")
 
 # Install required packages
 install.packages("BiocManager")
